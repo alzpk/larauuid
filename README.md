@@ -1,6 +1,16 @@
 # Larauuid
 Small package that makes the use of uuid easy in laravel
 
+### Installation
+
+To install this package, run the following composer command, inside your laravel project.
+
+```bash
+composer require alzpk/larauuid
+```
+
+### Usage
+
 To use this package simply use `Alzpk\Larauuid` inside your model.
 
 **Example:**
