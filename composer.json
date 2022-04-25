@@ -1,0 +1,19 @@
+{
+    "name": "alzpk/larauuid",
+    "description": "Small package that makes the use of uuid easy in laravel",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Hansen",
+            "email": "mh1986@outlook.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Alzpk\\Larauuid\\": "src/"
+        }
+    },
+    "require": {}
+}
